@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
-body{
+body {
     font: normal 15pt 'Roboto Slab';
     background-color: rgba(255, 235, 205, 0.486);
 }
 
-header{
+header {
     text-align: center;
     margin: auto;
 }
 
-.container{
+.container {
     background-color: rgba(0, 255, 255, 0.555);
     width: 100vh;
     margin: auto;
@@ -20,11 +20,11 @@ header{
     text-align: center;
 }
 
-.textos{
+.textos {
     text-align: left;
 }
 
-.botao{
+.botao {
     background-color: green;
     width: 10vh;
     height: 5vh;
@@ -33,6 +33,10 @@ header{
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.233);
 }
 
-.imagem{
+.imagem {
     padding: 20px;
+}
+
+.res {
+    margin-bottom: 30px;
 }
